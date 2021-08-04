@@ -3,4 +3,5 @@
 
 -----------------
 
-**Hardware used:**
+###Hardware used:###
++[!ATMEGA328P Microcontroller](https://www.microchip.com/en-us/product/ATmega328P)  
