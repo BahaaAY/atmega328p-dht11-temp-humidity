@@ -5,3 +5,11 @@
 
 ### Hardware used:
 * [ATMEGA328P Microcontroller](https://www.microchip.com/en-us/product/ATmega328P)  
+* [DHT11–Temperature and Humidity Sensor](https://components101.com/sensors/dht11-temperature-sensor)
+* [16x2 LCD](https://components101.com/displays/16x2-lcd-pinout-datasheet)
+
+### Software used:
+* [Atmel Studio 7](https://www.microchip.com/en-us/development-tools-tools-and-software/microchip-studio-for-avr-and-sam-devices)
+* [LabCenter Proteus 8](https://www.labcenter.com/)
+
+
